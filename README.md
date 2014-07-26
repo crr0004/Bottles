@@ -1,9 +1,9 @@
 Bottles
 =======
 
-Bottles, my chain child that is to understand simple language
+Bottles, my brain child that is to understand simple language
 Written by Chris Rhodes as a pet project
-If this goes anywhere it will be a miricle
+If this goes anywhere it will be a miracle
 
 First steps:
 Getting Bottles to able to break down sentances into description (Adjective), Objects (Noun) and actions (Verbs)
